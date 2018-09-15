@@ -1,0 +1,3 @@
+NOTE ON ADOBE AIR
+
+The Air software is copyright Adobe Systems Incorporated. You can get the latest version of the Adobe Air software from https://get.adobe.com/air/
